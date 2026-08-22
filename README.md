@@ -75,7 +75,7 @@ Natural-language-to-structured-data pipeline. Scheduled competitor scans on AWS,
 <td width="50%" valign="top">
 
 <a href="https://creative.anshumansp.com">
-  <img src="assets/kreatoros.png" alt="KreatorOS" width="100%">
+  <img src="assets/creative.png" alt="KreatorOS" width="100%">
 </a>
 
 ### [KreatorOS](https://creative.anshumansp.com)
