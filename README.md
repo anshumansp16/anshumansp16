@@ -1,65 +1,67 @@
-## 🚀 Full-Stack Developer | Anshuman Parmar
+# Anshuman Parmar
 
-Hi there! I'm Anshuman Parmar, a full-stack developer passionate about building innovative and user-friendly web and mobile applications. I bring expertise in a wide range of technologies, which you can explore below.
+**AI Engineer · Python Backend · Technical Team Lead**
 
-<br>
+I build and operate production LLM systems — RAG pipelines, multi-agent workflows, and large-scale browser automation. Currently lead engineer at a US-based marketing technology company, where I own the AWS/EKS production stack and the agentic AI services running on it.
 
- 📍 **I’m currently working on:**  <br>Building FullStack Applications using MERN Stack <br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>Next JS and Advanced DBMS <br><br>💬 **Ask me about:**  <br>JavaScript, React, Redux, Mongo DB, Node.js, Git and any general software development questions.<br><br>
-
-### 🔭 Skills
-
-- **Frontend:** Next.js, React, React Native TypeScript, HTML, CSS, JavaScript
-- **Backend:** Next.js, Node.js, Express
-- **Databases:** MySQL, PostgreSQL, MongoDB, Firebase
-- **Libraries:** Redux, Three.js, Socket.io, Tailwind, Material UI, Bootstrap
-- **Deployment/Hosting:** AWS, Vercel, Netlify, Render, Railway
-- **Design Tool:** Figma
-- **Version Control:** Git
-
-<br>
-
-
-### 💻 Projects
-
-🌟 Discover my work on the web:
-
-[![My Portfolio](https://img.shields.io/badge/My%20Portfolio-anshumansp.netlify.app-blue?style=for-the-badge&logo=appveyor)](https://anshumansp.netlify.app)
-
-- [CrownKing](https://crownking.vercel.app/)
-- [Pixelize](https://pixelizesolution.com/)
-- [Consultix](https://consultix.netlify.app/)
-- [Physiocare](https://physio-care.vercel.app/)
-- [Corsrex](https://corsrex.netlify.app)
-- [Urbanly](https://urbanly.netlify.app)
-- [Notex](https://notex.netlify.app)
-- [Corsrex 1.0](https://anshumansp.github.io/trial-corsrex/)
-- [Newswave](https://github.com/anshumansp/NewsWave-React)
-- [TextUtils](https://txtutls.netlify.app)
-- [Dark-Dance](https://dark-dance-production.up.railway.app)
-
-<br>
-
-### 🌐 Connect with me on social media:
-
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/anshumansparmar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anshuman-parmar-757666219/) [![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=Telegram&logoColor=white)](https://t.me/anshumansp) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anshuman_.__/)
-
-- Email: anshumansp16@gmail.com
-
-<br>
-
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anshumansp&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=anshumansp&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anshumansp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<br>
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=anshumansp&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-<br>
+📍 Gwalior, India · Open to relocation and remote
+📧 anshumansp16@gmail.com · 🔗 [anshumansp.com](https://anshumansp.com) · [LinkedIn](https://linkedin.com/in/anshumansp16)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=anshumansp&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🔨 What I'm building
+
+Commercial products — closed source, live in production.
+
+**[LegalMind](https://legal.anshumansp.com)** — AI legal research for Indian courts
+Judgment search and cited-answer research over Supreme Court, High Court, and District Court records. Ingestion and chunking pipeline, RAG retrieval with re-ranking, per-matter data scoping, and an LLM-as-judge harness that scores citation accuracy.
+`Python` `FastAPI` `LangGraph` `PostgreSQL` `pgvector` `Next.js`
+
+**[ScrapeHub](https://scrape.anshumansp.com)** — competitive intelligence and web data platform
+Natural-language-to-structured-data pipeline. Scheduled competitor scans on AWS, change detection, and generated intelligence briefs. Playwright rendering layer, job scheduler, credit-metered API.
+`Python` `FastAPI` `Playwright` `AWS` `Redis` `Next.js`
+
+---
+
+### 🧰 Stack
+
+**Languages** — Python, TypeScript, JavaScript, SQL, Bash
+
+**AI & LLM systems** — LangChain, LangGraph, RAG, vector search, embeddings, semantic chunking, hybrid retrieval, cross-encoder re-ranking, MCP, OpenAI / Claude / Gemini APIs, LLM evaluation
+
+**Backend** — FastAPI, Node.js, Express, REST, GraphQL, WebSockets, Celery, APScheduler, Redis queues and pub/sub, event-driven architecture
+
+**Cloud & DevOps** — AWS (EC2, EKS, ECR, Lambda, S3, RDS, SQS, SNS, Kinesis Firehose, CloudWatch, Route 53, VPC, IAM), Docker, Kubernetes, KEDA, Terraform, GitHub Actions, Prometheus, Grafana, Loki
+
+**Data** — PostgreSQL, MongoDB, Redis, DynamoDB, Pinecone, ChromaDB
+
+**Automation** — Selenium WebDriver, Playwright, Puppeteer, distributed scraping infrastructure
+
+**Frontend** — React, Next.js, TypeScript, Tailwind CSS, Redux
+
+---
+
+### 📦 Open source
+
+<!-- Replace these three with real repos, then pin them on your profile.
+     Keep them small and self-contained — extracted patterns, not product code. -->
+
+| Repo | What it is |
+|---|---|
+| [rag-eval-harness](https://github.com/anshumansp16) | LLM-as-judge evaluation harness for RAG pipelines — scores retrieval relevance and citation accuracy against a labelled set |
+| [langgraph-patterns](https://github.com/anshumansp16) | Reference implementations of multi-agent LangGraph workflows: routing, supervision, and human-in-the-loop |
+| [eks-autoscaling-starter](https://github.com/anshumansp16) | Terraform + Helm baseline for a production EKS cluster with KEDA, HPA, and a Prometheus/Grafana/Loki stack |
+
+---
+
+### 📺 Writing & video
+
+I make Hindi-language technical content on AI tooling and developer workflows — [YouTube](https://youtube.com/@anshumansp16).
+
+---
+
+### 📊 Stats
+
+![](https://github-readme-stats.vercel.app/api?username=anshumansp16&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anshumansp16&theme=dark&hide_border=false&layout=compact&langs_count=8)
