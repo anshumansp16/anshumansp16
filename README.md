@@ -4,7 +4,7 @@
 
 ### AI Engineer · Python Backend · Technical Team Lead
 
-**I build and operate production LLM systems** — RAG pipelines, multi-agent workflows on LangGraph,
+**I build and operate production LLM systems** - RAG pipelines, multi-agent workflows on LangGraph,
 and browser automation infrastructure running at scale on AWS.
 
 <br>
