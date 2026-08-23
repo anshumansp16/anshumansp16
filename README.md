@@ -92,7 +92,7 @@ Speech-to-text captioning across Hindi and 10+ Indian languages, automated clip 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://aarambh.anshumansp.com">
+<a href="https://aarambh_new.anshumansp.com">
   <img src="assets/aarambh.png" alt="Aarambh - AI learning platform" width="100%">
 </a>
 
